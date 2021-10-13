@@ -1,0 +1,23 @@
+﻿id,Phylum,Class,Order,Family,Genus,Species,sumseqs,percentseq,Fire
+Otu6,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,spp.,67564,6.869785815,postfire
+Otu7,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,spp.,67564,6.869785815,postfire
+Otu8,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,spp.,67564,6.869785815,postfire
+Otu9,Actinobacteria,Actinobacteria,Actinomycetales,Micromonosporaceae,Micromonospora,spp.,26407,2.685016192,postfire
+Otu13,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,spp.,18639,1.895179945,postfire
+Otu1421,Actinobacteria,Actinobacteria,Actinomycetales,Micromonosporaceae,Micromonosporaceae,spp.,11510,1.170316067,postfire
+Otu17024,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,muralis,11269,1.145811621,postfire
+Otu2032,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,spp.,11104,1.129034718,postfire
+Otu61,Actinobacteria,Actinobacteria,Actinomycetales,Pseudonocardiaceae,Pseudonocardia,spp.,10568,1.074535204,postfire
+Otu49,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Cohnella,spp.,10566,1.074331847,postfire
+Otu5,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,spp.,38057,2.264974051,prefire
+Otu14,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,spp.,23847,1.419261534,prefire
+Otu18,Proteobacteria,Betaproteobacteria,MND1,,Betaproteobacteria spp.,spp.,22307,1.327607961,prefire
+Otu24,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Sinobacteraceae,Sinobacteraceae,spp.,19922,1.185663953,prefire
+Otu15,Acidobacteria,Acidobacteria-6,iii1-15,,Acidobacteria spp.,spp.,19299,1.148585916,prefire
+,,,,,,,,,
+,,,,,,,,,
+Pre-fire Ratios:,Proteobacteria:,84%,,,,,,,
+,Acidobacteria,16%,,,,,,,
+,,,,,,,,,
+Post-fire Ratios:,Firmicutes,82%,,,,,,,
+,Actinobacteria,18%,,,,,,,

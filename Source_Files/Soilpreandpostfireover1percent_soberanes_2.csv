@@ -1,0 +1,24 @@
+id,Phylum,Genus,sumseq,percentseq,sumsamp,rank,Fire
+Otu13,Basidiomycota,Hygrocybe,74181,13.029032,22,16,prefire
+Otu23,Mucoromycota,Mortierella,57632,10.682883,23,1,prefire
+Otu57,Basidiomycota,Inocybe,25323,3.500706,8,273,prefire
+Otu40,Basidiomycota,Cystolepiota,22652,1.815804683,11,160,prefire
+Otu32,Ascomycota,Cladophialophora,22338,1.790634161,23,3,prefire
+Otu89,Basidiomycota,Xeromphalina,22240,1.782778393,17,68,prefire
+Otu78,Basidiomycota,Protomerulius,20038,1.606264093,10,189,prefire
+Otu63,Basidiomycota,Tomentella,16465,1.319849201,6,386,prefire
+Otu41,Unidentified,Fungus Spp.,14747,1.182132777,12,133,prefire
+Otu53,Ascomycota,Polyphilus,13988,1.121290655,23,5,prefire
+Otu49,Ascomycota,Cylindrodendrum,13784,1.104937831,11,161,prefire
+Otu156,Basidiomycota,Lyophyllum,12921,1.035758975,11,162,prefire
+Otu70,Basidiomycota,Clavaria,12829,1.028384173,10,190,prefire
+Otu100,Basidiomycota,Ramariopsis,12639,1.013153602,12,134,prefire
+Otu1,Basidiomycota,Basidioascus,641604,28.2,23,7,postfire
+Otu2,Ascomycota,Tricharina,309087,13.6,24,1,postfire
+Otu6,Ascomycota,Penicillium,274875,13.1,24,2,postfire
+Otu8,Ascomycota,Peziza,231971,10.2,24,3,postfire
+Otu4,Ascomycota,Anthracobia,173082,8.8,23,8,postfire
+Otu5,Ascomycota,Scutellinia,164856,7.2,24,4,postfire
+Otu7,Ascomycota,Pyronema,95712,4.2,22,14,postfire
+Otu16,Basidiomycota, Lyophyllum,58254,2.6,22,15,postfire
+Otu20,Ascomycota,Fusarium,26845,1.2,24,5,postfire
